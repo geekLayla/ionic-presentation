@@ -1,0 +1,56 @@
+[
+    {
+    	"filename": "0-my-intro.html"
+    },
+    {
+    	"filename": "00-intro-slide.html"
+    },
+    {
+    	"filename": "01-overview.html"
+    },
+    {
+    	"filename": "02-first-question.html",
+    	"attr": {
+    		"data-background-transition": "slide"
+    	}
+    },
+    {
+    	"filename": "03-downsides.html"
+    },
+    {
+    	"filename": "04-second-question.html"
+    },
+    {
+    	"filename": "05-hybrid-apps.html"
+    },
+    {
+    	"filename": "06-devices.html"
+    },
+    {
+    	"filename": "07-hybrid-dev.html"
+    },
+    {
+    	"filename": "08-ionic-hello.html"
+    },
+    {
+    	"filename": "09-web-techs.html"
+    },
+    {
+    	"filename": "10-ionic-archi.html"
+    },
+    {
+    	"filename": "11-third-question.html"
+    },
+    {
+    	"filename": "12-install-ionic.html"
+    },
+    {
+    	"filename": "13-ionic-cli.html"
+    },
+    {
+    	"filename": "14-ionic-ui.html"
+    },
+    {
+    	"filename": "15-ionicons.html"
+    }
+]
