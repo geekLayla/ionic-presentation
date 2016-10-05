@@ -1,13 +1,15 @@
 # ionic-presentation
 
-## How to use
 To use this presentation you have to download nodejs if it is not already present in your environnement.
-- ```sh
-    $ npm install
-- ```sh
-    $ bower install
- - ```sh
-    $ grunt serve
+    - ```sh
+        $ npm install
+      ```
+    - ```sh
+        $ bower install
+    - ```sh
+        $ grunt serve
+      ```
+    
 # Workshop prerequisites:
 
 - Install the latest version of nodeJS by downloading the installer from [nodejs.org](https://nodejs.org/en/) and following installation wizerd.
