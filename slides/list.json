@@ -52,5 +52,14 @@
     },
     {
     	"filename": "15-ionicons.html"
+    },
+    {
+        "filename": "16-list-icon.html"
+    },
+    {
+        "filename": "17-avatars.html"
+    },
+    {
+        "filename": "18-ion-tabs.html"
     }
 ]

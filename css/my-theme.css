@@ -48,6 +48,21 @@ body {
     margin-top: 32px;
 }
 
+.col {
+  float: left;
+  width: 50%;
+}
+.col.preview {
+  width: 35%;;
+}
+.col.code {
+  width: 65%;
+  text-align: left;
+}
+.col.code > * {
+  margin-left: 40px;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
