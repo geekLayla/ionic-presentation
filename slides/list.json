@@ -39,15 +39,6 @@
     	"filename": "10-ionic-archi.html"
     },
     {
-    	"filename": "11-third-question.html"
-    },
-    {
-    	"filename": "12-install-ionic.html"
-    },
-    {
-    	"filename": "13-ionic-cli.html"
-    },
-    {
     	"filename": "14-ionic-ui.html"
     },
     {
@@ -61,5 +52,23 @@
     },
     {
         "filename": "18-ion-tabs.html"
+    },
+    {
+        "filename": "11-third-question.html"
+    },
+    {
+        "filename": "12-install-ionic.html"
+    },
+    {
+        "filename": "13-ionic-cli.html"
+    },
+    {
+        "filename": "13-project-structure.html"
+    },
+    {
+        "filename": "13-test-app.html"
+    },
+    {
+        "filename": "19-workshop-time.html"
     }
 ]
