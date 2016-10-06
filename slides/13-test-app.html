@@ -1,15 +1,31 @@
-<h3>Ionic CLI</h3>
-
+<h3>Testing the app</h3>
+<ul style="float: left">
+	<li>
+		<h4 class="fragment fade-up">Desktop browser test</h4>
 	    <pre class="fragment fade-up">
 		    <code data-trim data-noescape>
 $ ionic serve
 		    </code>
 	    </pre>
-	    <pre class="fragment fade-up">
+	</li>
+	<li>
+		<h4 class="fragment fade-up">Simulator testing</h4>
+	<pre class="fragment fade-up">
 		    <code data-trim data-noescape>
-$ ionic serve --lab
+$ ionic build android
+$ ionic emulate android
 		    </code>
 	    </pre>
+	</li>
+	<li>
+		<h4 class="fragment fade-up">Mobile browser testing</h4>
+	</li>
+	<li>
+		<h4 class="fragment fade-up">Testing as a native app</h4>
+	</li>
+</ul>	
+
+	
 
 <aside class="notes">
 	When developing an app, it is very important to get immediate feedback. There is nothing more frustrating than having to wait a while to see if two pixels of margin is looking good or if three pixels is better. With Ionic, you can instantly preview your app in your browser and mobile devices. It instantly refreshes as you make changes to your application.
