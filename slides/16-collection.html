@@ -1,0 +1,34 @@
+<h3>Collection-repeat</h3>
+
+  <ul>
+    <li>
+      <h5>Replacement for Angular's ng-repeat</h5>
+    </li>
+    <li>
+      <h5>Scroll through thousands of items</h5>
+    </li>
+    <li>
+      <h5>Only renders the viewable items</h5>
+    </li>
+  </ul>
+      
+    <pre><code data-trim contenteditable class="xml">
+	<div class="list">
+    <div collection-repeat="item in items">
+      <h2>{{ item.name }}</h2>
+      <p>{{ item.email }}</p>
+    </div>
+  </div>
+</code></pre>
+
+<aside class="notes">
+
+And since performance is a key player in a mobile app, ionic introduced a very usefull directive "Collection-repeat".
+Which render only visible elements in the screen following the lazy loading mecanism.
+
+thus the app can show huge list of items much more performantly than ng-repeat.
+
+</aside>
+
+
+

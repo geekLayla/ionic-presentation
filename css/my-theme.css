@@ -34,6 +34,17 @@ body {
 /*********************************************
  * Added by me
  *********************************************/
+#main-content {
+    width: 58.67%;
+    margin-left: 24%;
+ }
+
+#main-content img {
+   float:left;
+   width: 50%;
+   height: 50%;
+}
+
 .reveal section img.logo {
     margin-bottom: 50px;
     border: none;
