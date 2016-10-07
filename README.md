@@ -42,6 +42,7 @@
 - Install ionic and cordova globally by running the command
 
 ```sh
-$ npm install -g ionic cordova
+$ npm install -g ionic@1.7.7
+$ npm install -g cordova
 ```
 
