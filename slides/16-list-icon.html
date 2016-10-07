@@ -17,8 +17,8 @@
           <i class="icon ion-document-text"></i>item-icon-left
         </ion-item>
 
-        <ion-item>
-          item without icon
+        <ion-item ng-repeat="item in items">
+          {{ item.name }}
         </ion-item>
 
         <ion-item class="item-icon-right">
