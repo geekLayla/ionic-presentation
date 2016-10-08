@@ -5,15 +5,13 @@
 </div>
 <div class="col code">
     <pre><code data-trim contenteditable class="xml">
-<ion-list class="list">
+<ion-list class="list" ng-controller="listCtrl">
 
-    <ion-item class="item item-avatar">
+    <ion-item ng-repeat="item in items" class="item item-avatar">
       <img src="avatar.png">
-      <h2>Venkman</h2>
-      <p>Back off, man. I'm a scientist.</p>
+      <h2>{{ item.title }}</h2>
+      <p>{{ item.desc }}</p>
     </ion-item>
-
-    ...
 
 </ion-list>
 </code></pre>

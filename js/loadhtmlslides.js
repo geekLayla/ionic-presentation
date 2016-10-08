@@ -3,7 +3,6 @@
     /*jslint loopfunc: true, browser: true*/
     /*globals alert*/
     'use strict';
-
     var querySlidingHtml = function () {
         var sections = document.querySelectorAll('[data-html]'),
             section, j, jlen;
